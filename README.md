@@ -8,5 +8,5 @@ This is the codebase of the 3 bus network DMS built in lab to test previous pdns
 ## The line model
 The line model used in the lab for the emulation process is shown in the figure below.
 
-![alt text](https://github.com/eepdnaclk/DMS-smartgrid/blob/main/linemodel.png "Line Model used for emulation")
+![alt text](https://github.com/eepdnaclk/DMS-smartgrid-public/blob/main/linemodel.png "Line Model used for emulation")
 
